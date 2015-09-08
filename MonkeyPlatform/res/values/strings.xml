@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoTestHelper</string>
+
+    <string name="title_script_list">Monkey历史记录</string>
+    
+    <string name="action_run_test">开始Monkey测试</string>
+    <string name="action_run_script_test">是否运行此Monkey脚本测试？</string>
+    <string name="action_run">运行</string>
+    <string name="tip_close">改功能暂时关闭</string>
+    <string name="tip_params_count">输入Monkey事件数(正整数)</string>
+    <string name="tip_params_throttle">输入Monkey事件间隔事件(毫秒单位)</string>
+    
+    <string name="tip_run">开始Monkey测试，请稍候...</string>
+    <string name="tip_params_error">参数配置错误，请修改</string>
+</resources>

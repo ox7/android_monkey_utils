@@ -1,0 +1,8 @@
+{
+	
+	event_type:"key_event",
+	event_params:{
+		key_code:1
+	}
+	
+}
